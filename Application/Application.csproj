@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <ItemGroup>
+      <ProjectReference Include="..\Infraestructure\Infraestructure.csproj" />
+      <ProjectReference Include="..\Domain\Domain.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="UseCases\Attachment\Commands\" />
+      <Folder Include="UseCases\Attachment\Querys\" />
+      <Folder Include="UseCases\AuditLog\Commands\" />
+      <Folder Include="UseCases\AuditLog\Querys\" />
+      <Folder Include="UseCases\Report\Commands\" />
+      <Folder Include="UseCases\Response\Querys\" />
+      <Folder Include="UseCases\UserRole\Commands\" />
+      <Folder Include="UseCases\UserRole\Querys\" />
+    </ItemGroup>
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+</Project>
