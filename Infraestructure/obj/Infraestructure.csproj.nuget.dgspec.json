@@ -389,6 +389,10 @@
               "target": "Package",
               "version": "[0.105.0, )"
             },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[8.6.0, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[14.1.0, )"

@@ -16,6 +16,8 @@ public static class DependencyInjection
         services.AddScoped(typeof(IGRepositories<>), typeof(GRepositories<>));
 
         services.AddScoped<IExcelExportService, ExcelExportService>();
+        services.AddScoped<IExcelExportService, EpPlusExportService>();
+        
         services.AddScoped<IPasswordHash, PasswordHash>();
         
         return services;
