@@ -39,9 +39,7 @@ jobs:
         run: dotnet test ${{ env.SOLUTION_FILE }} --configuration Release --no-build
 
       - name: Publish Main Project
-        run: dotnet publish S13MauricioCV.ReportData/S13MauricioCV.ReportData.csproj \
-          --configuration Release \
-          --output ./publish
+        run: dotnet publish S13MauricioCV.ReportData/S13MauricioCV.ReportData.csproj --configuration Release --output ./publish
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
