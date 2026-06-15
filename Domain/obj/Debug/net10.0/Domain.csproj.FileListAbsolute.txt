@@ -20,3 +20,15 @@ K:\Elementos\Rider\S13\S13MauricioCV.ReportData\Domain\obj\Debug\net10.0\Domain.
 K:\Elementos\Rider\S13\S13MauricioCV.ReportData\Domain\obj\Debug\net10.0\refint\Domain.dll
 K:\Elementos\Rider\S13\S13MauricioCV.ReportData\Domain\obj\Debug\net10.0\Domain.pdb
 K:\Elementos\Rider\S13\S13MauricioCV.ReportData\Domain\obj\Debug\net10.0\ref\Domain.dll
+D:\Programacion\C#\S14\C--ClosedXML-EPPlus\Domain\bin\Debug\net10.0\Domain.deps.json
+D:\Programacion\C#\S14\C--ClosedXML-EPPlus\Domain\bin\Debug\net10.0\Domain.dll
+D:\Programacion\C#\S14\C--ClosedXML-EPPlus\Domain\bin\Debug\net10.0\Domain.pdb
+D:\Programacion\C#\S14\C--ClosedXML-EPPlus\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\C#\S14\C--ClosedXML-EPPlus\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+D:\Programacion\C#\S14\C--ClosedXML-EPPlus\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+D:\Programacion\C#\S14\C--ClosedXML-EPPlus\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+D:\Programacion\C#\S14\C--ClosedXML-EPPlus\Domain\obj\Debug\net10.0\Domain.sourcelink.json
+D:\Programacion\C#\S14\C--ClosedXML-EPPlus\Domain\obj\Debug\net10.0\Domain.dll
+D:\Programacion\C#\S14\C--ClosedXML-EPPlus\Domain\obj\Debug\net10.0\refint\Domain.dll
+D:\Programacion\C#\S14\C--ClosedXML-EPPlus\Domain\obj\Debug\net10.0\Domain.pdb
+D:\Programacion\C#\S14\C--ClosedXML-EPPlus\Domain\obj\Debug\net10.0\ref\Domain.dll

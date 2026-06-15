@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("S13MauricioCV.ReportData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72d52c3389fb4dc86e5b08c92ff5506d998ee496")]
 [assembly: System.Reflection.AssemblyProductAttribute("S13MauricioCV.ReportData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("S13MauricioCV.ReportData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

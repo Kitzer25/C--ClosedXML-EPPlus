@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "K:\\Elementos\\Rider\\S13\\S13MauricioCV.ReportData\\Infraestructure\\Infraestructure.csproj": {}
+    "D:\\Programacion\\C#\\S14\\C--ClosedXML-EPPlus\\Infraestructure\\Infraestructure.csproj": {}
   },
   "projects": {
-    "K:\\Elementos\\Rider\\S13\\S13MauricioCV.ReportData\\Domain\\Domain.csproj": {
+    "D:\\Programacion\\C#\\S14\\C--ClosedXML-EPPlus\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\Elementos\\Rider\\S13\\S13MauricioCV.ReportData\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Programacion\\C#\\S14\\C--ClosedXML-EPPlus\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "K:\\Elementos\\Rider\\S13\\S13MauricioCV.ReportData\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Programacion\\C#\\S14\\C--ClosedXML-EPPlus\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Spart\\.nuget\\packages\\",
-        "outputPath": "K:\\Elementos\\Rider\\S13\\S13MauricioCV.ReportData\\Domain\\obj\\",
+        "outputPath": "D:\\Programacion\\C#\\S14\\C--ClosedXML-EPPlus\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Spart\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -337,14 +337,14 @@
         }
       }
     },
-    "K:\\Elementos\\Rider\\S13\\S13MauricioCV.ReportData\\Infraestructure\\Infraestructure.csproj": {
+    "D:\\Programacion\\C#\\S14\\C--ClosedXML-EPPlus\\Infraestructure\\Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\Elementos\\Rider\\S13\\S13MauricioCV.ReportData\\Infraestructure\\Infraestructure.csproj",
+        "projectUniqueName": "D:\\Programacion\\C#\\S14\\C--ClosedXML-EPPlus\\Infraestructure\\Infraestructure.csproj",
         "projectName": "Infraestructure",
-        "projectPath": "K:\\Elementos\\Rider\\S13\\S13MauricioCV.ReportData\\Infraestructure\\Infraestructure.csproj",
+        "projectPath": "D:\\Programacion\\C#\\S14\\C--ClosedXML-EPPlus\\Infraestructure\\Infraestructure.csproj",
         "packagesPath": "C:\\Users\\Spart\\.nuget\\packages\\",
-        "outputPath": "K:\\Elementos\\Rider\\S13\\S13MauricioCV.ReportData\\Infraestructure\\obj\\",
+        "outputPath": "D:\\Programacion\\C#\\S14\\C--ClosedXML-EPPlus\\Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Spart\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -359,8 +359,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "K:\\Elementos\\Rider\\S13\\S13MauricioCV.ReportData\\Domain\\Domain.csproj": {
-                "projectPath": "K:\\Elementos\\Rider\\S13\\S13MauricioCV.ReportData\\Domain\\Domain.csproj"
+              "D:\\Programacion\\C#\\S14\\C--ClosedXML-EPPlus\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Programacion\\C#\\S14\\C--ClosedXML-EPPlus\\Domain\\Domain.csproj"
               }
             }
           }
