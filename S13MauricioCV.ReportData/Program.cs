@@ -17,12 +17,22 @@ builder.Services.AddApplication();
  */
 builder.Services.AddDbContext<AppDbContext>(o =>
 {
-    var stringscnn = builder.Configuration.GetConnectionString("DefaultString");
+    var provider = builder.Configuration["DatabaseProvider"];
+    if (provider == "MySQL")
+    {
+        var sqlconnection = builder.Configuration.GetConnectionString("MySQLConnection");
 
-    o.UseMySql(
-        stringscnn,
-        ServerVersion.AutoDetect(stringscnn)
-    );
+        o.UseMySql(
+            sqlconnection,
+            ServerVersion.AutoDetect(sqlconnection)
+        );
+    }
+    else
+    {
+        var postgresconnection = builder.Configuration.GetConnectionString("PostgresConnection");
+
+        o.UseNpgsql(postgresconnection);
+    }
 });
 
 /*

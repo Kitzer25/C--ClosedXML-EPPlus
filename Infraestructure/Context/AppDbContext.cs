@@ -32,8 +32,9 @@ public partial class AppDbContext : DbContext
 
     public virtual DbSet<UserRole> UserRoles { get; set; }
 
+    // Cambio de MySQl a Postgres
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseMySql("name=ConnectionStrings:DefaultString", Microsoft.EntityFrameworkCore.ServerVersion.Parse("8.4.7-mysql"));
+        => optionsBuilder.UseNpgsql("name=ConnectionStrings:PostgresConnection");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
