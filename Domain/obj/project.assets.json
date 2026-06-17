@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programacion\\C#\\S14\\C--ClosedXML-EPPlus\\Domain\\Domain.csproj",
+      "projectUniqueName": "K:\\Elementos\\Rider\\S13\\S13MauricioCV.ReportData\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Programacion\\C#\\S14\\C--ClosedXML-EPPlus\\Domain\\Domain.csproj",
+      "projectPath": "K:\\Elementos\\Rider\\S13\\S13MauricioCV.ReportData\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Spart\\.nuget\\packages\\",
-      "outputPath": "D:\\Programacion\\C#\\S14\\C--ClosedXML-EPPlus\\Domain\\obj\\",
+      "outputPath": "K:\\Elementos\\Rider\\S13\\S13MauricioCV.ReportData\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Spart\\AppData\\Roaming\\NuGet\\NuGet.Config"
