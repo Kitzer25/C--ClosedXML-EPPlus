@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pyHq6H34eDg=",
+  "dgSpecHash": "XiGQqmDeA4U=",
   "success": true,
-  "projectFilePath": "D:\\Programacion\\C#\\S14\\C--ClosedXML-EPPlus\\Infraestructure\\Infraestructure.csproj",
+  "projectFilePath": "K:\\Elementos\\Rider\\S13\\S13MauricioCV.ReportData\\Infraestructure\\Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Spart\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512",
     "C:\\Users\\Spart\\.nuget\\packages\\closedxml\\0.105.0\\closedxml.0.105.0.nupkg.sha512",
