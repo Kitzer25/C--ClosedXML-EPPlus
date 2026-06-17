@@ -25,7 +25,10 @@ internal sealed class AddTicketCommandHandler(IUnitOfWork unitOfWork)
             Title = request.Title,
             Description = request.Description,
             Status = request.Status.ToString(),
-            CreatedAt = DateTime.UtcNow
+            CreatedAt = DateTime.SpecifyKind(
+                DateTime.UtcNow,
+                DateTimeKind.Unspecified
+            )
         };
 
         if (request.CategoryId.HasValue)
