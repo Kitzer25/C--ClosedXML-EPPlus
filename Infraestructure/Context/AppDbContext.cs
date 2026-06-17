@@ -31,10 +31,7 @@ public partial class AppDbContext : DbContext
     public virtual DbSet<User> Users { get; set; }
 
     public virtual DbSet<UserRole> UserRoles { get; set; }
-
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseMySql("name=ConnectionStrings:DefaultString", Microsoft.EntityFrameworkCore.ServerVersion.Parse("8.4.7-mysql"));
-
+    
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder

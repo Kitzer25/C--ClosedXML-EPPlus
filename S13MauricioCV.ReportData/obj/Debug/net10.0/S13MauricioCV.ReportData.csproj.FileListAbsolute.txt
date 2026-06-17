@@ -429,3 +429,11 @@ D:\Programacion\C#\S14\C--ClosedXML-EPPlus\S13MauricioCV.ReportData\obj\Debug\ne
 D:\Programacion\C#\S14\C--ClosedXML-EPPlus\S13MauricioCV.ReportData\obj\Debug\net10.0\S13MauricioCV.ReportData.pdb
 D:\Programacion\C#\S14\C--ClosedXML-EPPlus\S13MauricioCV.ReportData\obj\Debug\net10.0\S13MauricioCV.ReportData.genruntimeconfig.cache
 D:\Programacion\C#\S14\C--ClosedXML-EPPlus\S13MauricioCV.ReportData\obj\Debug\net10.0\ref\S13MauricioCV.ReportData.dll
+K:\Elementos\Rider\S13\S13MauricioCV.ReportData\S13MauricioCV.ReportData\bin\Debug\net10.0\EPPlus.dll
+K:\Elementos\Rider\S13\S13MauricioCV.ReportData\S13MauricioCV.ReportData\bin\Debug\net10.0\EPPlus.Interfaces.dll
+K:\Elementos\Rider\S13\S13MauricioCV.ReportData\S13MauricioCV.ReportData\bin\Debug\net10.0\Microsoft.IO.RecyclableMemoryStream.dll
+K:\Elementos\Rider\S13\S13MauricioCV.ReportData\S13MauricioCV.ReportData\bin\Debug\net10.0\System.Security.Cryptography.Pkcs.dll
+K:\Elementos\Rider\S13\S13MauricioCV.ReportData\S13MauricioCV.ReportData\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Security.Cryptography.Pkcs.dll
+K:\Elementos\Rider\S13\S13MauricioCV.ReportData\S13MauricioCV.ReportData\obj\Debug\net10.0\S13MauricioCV.ReportData.sourcelink.json
+K:\Elementos\Rider\S13\S13MauricioCV.ReportData\S13MauricioCV.ReportData\bin\Debug\net10.0\Npgsql.dll
+K:\Elementos\Rider\S13\S13MauricioCV.ReportData\S13MauricioCV.ReportData\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

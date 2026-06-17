@@ -50,3 +50,4 @@ D:\Programacion\C#\S14\C--ClosedXML-EPPlus\Application\obj\Debug\net10.0\Applica
 D:\Programacion\C#\S14\C--ClosedXML-EPPlus\Application\obj\Debug\net10.0\refint\Application.dll
 D:\Programacion\C#\S14\C--ClosedXML-EPPlus\Application\obj\Debug\net10.0\Application.pdb
 D:\Programacion\C#\S14\C--ClosedXML-EPPlus\Application\obj\Debug\net10.0\ref\Application.dll
+K:\Elementos\Rider\S13\S13MauricioCV.ReportData\Application\obj\Debug\net10.0\Application.sourcelink.json
